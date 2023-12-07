@@ -1,0 +1,16 @@
+public class practs6;
+void add (int a,int b)
+{
+int c=a+b;
+system.out.println("addition of two nos="+c);
+}
+void add (int a,int b,int c)
+{
+int d=a+b+c;
+system.out.println("addition of three nos="+d);
+}
+practs6 p=new Practs6();
+p.add(4,5);
+p.add(7,8,9);
+}
+}
